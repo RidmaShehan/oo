@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "439411967957",
+    "project_id": "seaventure-e4ddc",
+    "storage_bucket": "seaventure-e4ddc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439411967957:android:a6caea2f53ea7e96239f5c",
+        "android_client_info": {
+          "package_name": "com.example.sea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GJgScuCQPDKsVVT1wbfHoZFbGpdKUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439411967957-ec7pv8qh5uulvubbc53oe08uj5nqm1kf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sea"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439411967957:android:1ef4092886fd8ee4239f5c",
+        "android_client_info": {
+          "package_name": "com.example.seaven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GJgScuCQPDKsVVT1wbfHoZFbGpdKUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439411967957-ec7pv8qh5uulvubbc53oe08uj5nqm1kf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sea"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439411967957:android:761dd28a5a68a8d6239f5c",
+        "android_client_info": {
+          "package_name": "com.example.seaventu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GJgScuCQPDKsVVT1wbfHoZFbGpdKUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439411967957-ec7pv8qh5uulvubbc53oe08uj5nqm1kf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sea"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439411967957:android:1d8f8e74718e8ee3239f5c",
+        "android_client_info": {
+          "package_name": "com.example.seaventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GJgScuCQPDKsVVT1wbfHoZFbGpdKUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439411967957-f68t3t8jqdtjdmbem7h0597er2akb2vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439411967957-ec7pv8qh5uulvubbc53oe08uj5nqm1kf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
